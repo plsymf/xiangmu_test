@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:\django\.idea\django.iml" filepath="E:\django\.idea\django.iml" />
+      <module fileurl="file://E:/lagou/.idea/lagou.iml" filepath="E:/lagou/.idea/lagou.iml" />
+      <module fileurl="file://E:\leishitu\.idea\leishitu.iml" filepath="E:\leishitu\.idea\leishitu.iml" />
+      <module fileurl="file://E:/neitui/.idea/neitui.iml" filepath="E:/neitui/.idea/neitui.iml" />
+      <module fileurl="file://E:/pls/.idea/pls.iml" filepath="E:/pls/.idea/pls.iml" />
+      <module fileurl="file://E:/test/.idea/test.iml" filepath="E:/test/.idea/test.iml" />
+      <module fileurl="file://E:/testshitu/.idea/testshitu.iml" filepath="E:/testshitu/.idea/testshitu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xiangmu.iml" filepath="$PROJECT_DIR$/.idea/xiangmu.iml" />
+      <module fileurl="file://E:/xm_django/.idea/xm_django.iml" filepath="E:/xm_django/.idea/xm_django.iml" />
+    </modules>
+  </component>
+</project>
